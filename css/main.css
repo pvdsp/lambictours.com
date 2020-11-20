@@ -2,7 +2,7 @@
   width: 5em;
 }
 
-p, input::-webkit-input-placeholder, button {
+p, .alert, input, input::-webkit-input-placeholder, button {
   font-family: 'Inter', sans-serif;
   font-size: 0.8em;
 }
